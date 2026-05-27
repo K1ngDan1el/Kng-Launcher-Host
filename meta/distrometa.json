@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///C:/Users/danie/Documents/New%20project/launcher/New%20folder/Nebula/Root/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "https://westeroscraft.com/articles/index.rss",
+    "discord": {
+      "clientId": "1086936373057040395",
+      "smallImageText": "KngCraft",
+      "smallImageKey": "big"
+    }
+  }
+}
