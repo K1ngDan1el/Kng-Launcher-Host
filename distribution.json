@@ -8,6 +8,23 @@
   },
   "servers": [
     {
+      "id": "KngCraft-1.12.2-1.12.2",
+      "name": "KngCraft-1.12.2 (Minecraft 1.12.2)",
+      "description": "KngCraft-1.12.2 Running Minecraft 1.12.2",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.12.2",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": []
+    },
+    {
       "id": "KngCraft-1.21.4",
       "name": "KngCraft (Minecraft 1.21.4)",
       "description": "KngCraft Running Minecraft 1.21.4 (Fabric v0.19.2)",
@@ -116,6 +133,40 @@
           ]
         }
       ]
+    },
+    {
+      "id": "KngCraft-1.21.4-Vanilla-1.21.4",
+      "name": "KngCraft-1.21.4-Vanilla (Minecraft 1.21.4)",
+      "description": "KngCraft-1.21.4-Vanilla Running Minecraft 1.21.4",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.21.4",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": []
+    },
+    {
+      "id": "KngCraft-1.8.9-1.8.9",
+      "name": "KngCraft-1.8.9 (Minecraft 1.8.9)",
+      "description": "KngCraft-1.8.9 Running Minecraft 1.8.9",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.8.9",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": []
     }
   ]
 }
