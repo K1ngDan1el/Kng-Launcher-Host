@@ -265,6 +265,156 @@
               }
             }
           ]
+        },
+        {
+          "id": "cameratweaks:cameratweaks:1.11.2-26.1@jar",
+          "name": "Camera Tweaks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 77076,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/CameraTweaks-1.11.2-26.1.jar",
+            "MD5": "0f617dffa8ae9d2aa23f868bec5bc408"
+          }
+        },
+        {
+          "id": "net.lostluma.dynamic_fps.impl.fabric.compat:dynamic_fps:3.11.7@jar",
+          "name": "Dynamic FPS",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 187418,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/dynamic-fps-3.11.7+minecraft-26.1.0-fabric.jar",
+            "MD5": "d9d024459570aae118a113b2b14d0e3b"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.150.0+26.1.2@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2496495,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/fabric-api-0.150.0+26.1.2.jar",
+            "MD5": "1b04b46b4400d75c8e9c6ae71fa01bd3"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.11+kotlin.2.3.21@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7813444,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
+            "MD5": "06f4497b65f800a0b110025d8e9a4005"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:9.0.0@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 72677,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/ferritecore-9.0.0-fabric.jar",
+            "MD5": "9d96f643cfd220b75f47c94ea56ebc2a"
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.15.2+26.1.2@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 304946,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/ImmediatelyFast-Fabric-1.15.2+26.1.2.jar",
+            "MD5": "dc4a4804bfa6ff3b73d68dbdf66db2d4"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.10.9+mc26.1.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2803860,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/iris-fabric-1.10.9+mc26.1.1.jar",
+            "MD5": "0037a947d04dd252c4348c16d271c6b2"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:18.0.0-beta.1@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 855297,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/modmenu-18.0.0-beta.1.jar",
+            "MD5": "29f02920e93a9b122a2f8addd81aa784"
+          }
+        },
+        {
+          "id": "yalter.mousetweaks:mousetweaks:2.31@jar",
+          "name": "Mouse Tweaks",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 75833,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/MouseTweaks-fabric-mc26.1-2.31.jar",
+            "MD5": "f917fd363224171bcae32ae22bb41c92"
+          }
+        },
+        {
+          "id": "generated.fabricmod:placeholder-api:3.0.0+26.1@jar",
+          "name": "Placeholder API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 254376,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/placeholder-api-3.0.0+26.1.jar",
+            "MD5": "28349f7d56cfd8ee62e89a682fdd40c6"
+          }
+        },
+        {
+          "id": "generated.fabricmod:reeses-sodium-options:2.0.5+mc26.1.1@jar",
+          "name": "Reese's Sodium Options",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 103481,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/reeses-sodium-options-fabric-2.0.5+mc26.1.1.jar",
+            "MD5": "53feacd1108480c905f5af3b0243728c"
+          }
+        },
+        {
+          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.11.1@jar",
+          "name": "3d-Skin-Layers",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1948032,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/skinlayers3d-fabric-1.11.1-mc26.1.jar",
+            "MD5": "a1987e9c9d605b43fba28e6b1f37b6fc"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods.sodiumextra:sodium-extra:0.8.7+mc26.1.1@jar",
+          "name": "Sodium Extra",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 401602,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/sodium-extra-fabric-0.8.7+mc26.1.1.jar",
+            "MD5": "64c15be7292fb65642de5f93d46d8b1c"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.8.12+mc26.1.2@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1844226,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/sodium-fabric-0.8.12+mc26.1.2.jar",
+            "MD5": "0e23e1fa43b2b2ce7c8b7bb8e0bc0e54"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.9.3+26.1-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1117278,
+            "url": "https://raw.githubusercontent.com/K1ngDan1el/Kng-Launcher-Host/main/servers/KngCraft-26.1.2-Fabric-26.1.2/fabricmods/required/yet_another_config_lib_v3-3.9.3+26.1-fabric.jar",
+            "MD5": "1667300ac80363ed8788f0850f65e4d5"
+          }
         }
       ]
     },
